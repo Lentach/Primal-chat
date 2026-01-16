@@ -204,3 +204,4 @@ Jeśli kontynuujesz pracę nad tym projektem:
 Kluczowe pliki do edycji:
 - `App.js` - logika klienta
 - `serwer/index.js` - logika serwera
+asdasdasdsa
