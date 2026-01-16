@@ -161,3 +161,4 @@ Ten projekt jest dostępny do użytku prywatnego i edukacyjnego.
 Projekt stworzony z pomocą AI (Gemini).
 
 *Ostatnia aktualizacja: Styczeń 2026*
+wsdlkqnda
